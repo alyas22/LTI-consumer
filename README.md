@@ -1,3 +1,3 @@
 # LTI-consumer
-Simple LTI Tool Consumer
+Simple LTI 1.0 Tool Consumer
 
